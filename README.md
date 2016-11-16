@@ -1,5 +1,5 @@
 # Revolve
 
 ```
-thre must be a good ending.
+there must be a good ending.
 ```
